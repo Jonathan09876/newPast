@@ -1,0 +1,254 @@
+Armenia:
+Education;
+SEUA
+Bachelor of Applied Science (BASc), Applied mathematics and informatics.
+2014-2018
+159 high school
+2003-2014
+Employment history;
+Full Stack Developer | DPG media
+January 2021 - December 2024
+As a Web Developer at Dutch Web Solutions, I've had the opportunity to be a key contributor to a dynamic and innovative team. The company specializes in crafting cutting-edge web solutions for a diverse range of clients across various industries.
+Java Script Developer | Picsart
+February 2019 - June 2020
+I have been the JavaScript Developer at PicsArt, contributing to the heart of Yerevan's creative scene. Focused on crafting immersive and seamless user experiences for a cutting-edge creative platform.
+Full Stack Developer | WebFoundation
+July 2016 - July 2018
+Dynamic Full Stack Developer at WebFoundation Innovations in Yerevan, contributing to the growth of cutting-edge web solutions. Balancing both frontend and backend technologies to create seamless user experiences.
+Other experiences;
+Maths and Physics
+I have lerant maths and physics in SEUA.
+Sweden:
+Education;
+Jönköping University
+Master of Computer Science (MSCS), User Experience & IT Architecture
+2019-2021
+FCCU (Forman Christian College Lahore)
+Bachelor of Engineering (BEng), Computer science
+2010-2014
+Employment history;
+Developer/DME(Digital Media Executive) | ViralDigital
+August 2015 - Present
+In ViralDigital I am working as a Developer & Digital Media Executive, I worked so many projects individually now I am leading my team
+Other experiences;
+Business Developer
+I am a professional business developer having 5+ years of experience when I was in development and gained so much expertise after then I have started work as a BDO and managed projects from scratch.
+I can take your project from start and deliver right time.
+Armenia:
+Education;
+Bonch-Bruevich State University of Telecommunications | (PHP, Laravel, Node.js, Yii)
+Master of Computer Science (MSCS)
+2010-2014
+Bonch-Bruevich State University of Telecommunications | (React, Vue JS, Redux, JavaScript)
+Bachelor of Computer Science (BCompSc)
+2006-2010
+Employment history;
+CTO | Vasterra - Custom Software Development
+September 2019 - Present
+Backend & API: PHP, Laravel, Node.js, Yii
+SPA frontend: React, Vue JS, Redux, JavaScript, jQuery, HTML, CSS, Bootstrap
+Databases: PostgreSQL, MySQL, Redis, MongoDB, MariaDB
+Also: WordPress, WooCommerce, Shopify, OpenCV
+less
+Senior Web Developer | LaShoestring.com (React, Vue JS, Redux, JavaScript, jQuery, HTML, CSS, Bootstrap)
+January 2017 - August 2019
+I developed an e-commerce shop and created product feeds for Amazon, ETCY, and Houz.
+This was a complex project with PHP backend, Shopify layout, and most importantly OpenCV algorithms implemented for object detection and identification.
+Senior Web Developer | Biz-cen.ru — real estate company (PHP, Laravel, Node.js, Yii)
+November 2011 - December 2016
+I developed a fully functional corporate web site from scratch that the company still uses nowadays.
+Middle Web Developer | Komned.ru
+October 2010 - November 2011
+I worked on frontend and backend of one of the largest real estate company in St. Petersburg (jQuery, CSS, HTML)
+Junior Web Developer | IT-agency.ru
+January 2008 - September 2010
+I coded different web sites from entertaiment portals to university official web sites (PHP & JavaScript).
+Ukraine:
+Education;
+Volodymyr Vynnychenko Central Ukrainian State University
+Master's degree, Faculty of Information Technologies
+2007-2011
+Employment history;
+Head of PHP department | OnixSystems
+January 2019 - Present
+Full stack PHP developer | OnixSystems
+January 2012 - January 2019
+Ukraine:
+Education;
+Kharkiv state university of economics
+Bachelor of Commerce (B.Com.), International economics
+2004-2009
+Kharkiv State university of radioelectronics
+Bachelor of Engineering (B.Eng.), Computer engineering
+2002-2007
+Employment history;
+CRM system for real-estate companies | metr rochet
+May 2012 - Present
+Me and my team of yii developers worked on a huge CRM system, combining all the objects of the poperty in one place, http://aptaha.com - is the 1st CRM system for real-estate agencies, which gives an opportunity to search for clients, post adds on plenty of internal web-sites and create a web-site for an agency
+e-commerce web-sites | iressources
+January 2012 - Present
+Working on management of Prestashop-based web-sites. Me and my team developing the Prestashop web-sites for France, Australia and Russian clients
+Ukraine:
+Education;
+Zaporizhzhya National Technical University
+Bachelor of Engineering (BEng)
+2012-2016
+Employment history;
+Web Developer | ITN
+May 2015 - March 2016
+HTML/CSS
+JS
+Angular JS
+Bootstrap
+Other experiences;
+Freelancer
+Since 2016
+United Kingdom:
+Education;
+University of Derby
+Bachelors, in Computer Studies
+1993-1995
+Derby College
+Diploma, in Computer Studies
+1990-1991
+Employment history;
+Web Technician | New College Nottingham
+December 1999 - January 2007
+I developed many webpages and online forms comprises Dreamweaver 8, Visual
+Studio Web Developer, SQL, SQLServer, JavaScript, VBScript, ASP, ASP.NET and
+Flash/Authorware Web Player. I also use Macromedia Authorware 5.2/Flash MX
+regularly to enable me to develop various multimedia courseware packages for
+the New College Nottingham; to produce graphics I regularly use Adobe
+Photoshop CS and Adobe Illustrator; to produce animation I use 3D Max Studio.
+
+The majority of my work is carried out on a Silicon Graphics (SGi) for WinNT.
+Web/Multimedia Developer | University of Derby
+September 1995 - December 1999
+Mainly use Macromedia Authorware 5 to develop various multimedia courseware
+packages for the University of Derby; to produce graphics I regularly use
+Adobe Photoshop 5 and Adobe Illustrator 7; to produce animation I use 3D Max
+Studio and Extreme 3D. I also sometimes assist to the Internet department to
+design web pages comprises HTML version, JavaScript, Shockwave for Authorware
+and Flash.
+
+The majority of my work is carried out on a PC, however for in-depth graphics,
+an Apple Macintosh may be used.
+Kazakhstan:
+Education;
+Rheinisch-Westfälische Technische Hochschule Aachen
+Master of Science (MS), Communication Engineering
+2005-2008
+Siberian State University of Telecommunications and Information sciences
+Bachelor of Engineering (BEng), Wireless Communications
+1998-2003
+Employment history;
+CEO and Technical Lead | Resolventa
+September 2012 - Present
+CEO, founder and technical lead at Resolventa company.
+Along with my team I focus on large, long-lasting enterprise projects, quickly emerging startups, and complex web projects development.
+Tech stack: PHP, Symfony and Laravel frameworks, Javascript, Vue.js, React.js, MySQL, ElasticSearch, Docker, AWS, PHPUnit
+Software development practices: CI/CD, unit and functional testing, code reviews, design patterns, scrum/agile workflow.
+
+Senior PHP developer, team-lead | FH Platforms
+April 2010 - August 2012
+Worked as a Senior full-stack PHP Developer and team-lead on several in-house web platforms.
+Tech stack: PHP, Symfony, and CakePHP frameworks, Javascript, JQuery, MySQL
+Tasks:
+• Development of most critical and core parts of web applications.
+• Software and database design.
+• Code review, quality control, and mentoring.
+
+Full-stack PHP developer | Freelance
+September 2008 - March 2010
+Tech stack: PHP, HTML, CSS, Javascript, JQuery
+Other experiences;
+ElasticSearch / OpenSearch
+Our team has extensive experience building custom search engines with ElasticSearch / OpenSearch. We've built web crawlers and fuzzy multilanguage search with elastic.
+Rebuilding Legacy Applications
+Do you have outdated software that is difficult to update and support? Developers are not able to make reasonable estimates and follow them. Every update causes a bunch of bugs afterward. No one really knows what's inside.
+Based on our expertise, we can offer a step-by-step refactoring plan or a complete rebuild of your application from scratch. We have successful cases in our portfolio for both approaches.
+
+Rescuing Your Product Development
+In case your product is not complete or does not work, past developers disappeared with no documentation or code is messy and unmaintainable we can work on it to help you release a working product. We will restore your system after an unsuccessful development and build up a sustainable process for further development of the product.
+Having accumulated experience in multiple IT systems, we know how to quickly join our clients’ projects and provide high-quality results on time.
+Armenia:
+Education;
+NPUA
+Bachelor's degree, Computer science
+2013-2017
+Employment history;
+JS and PHP specialist | LiteSoft LLC
+February 2017 - April 2022
+USA:
+Education;
+Central University of Gujarat
+Bachelor of Engineering (BEng)
+1999-2002
+Employment history;
+Manager | Web Mavens
+September 2015 - Present
+Team Leader | Web Mavens
+September 2008 - December 2015
+Sr. Full Stack Developer | win2konline.net
+February 2006 - August 2008
+Jr. Web Developer | win2konline.net
+June 2002 - January 2006
+Armenia:
+Education;
+Yerevan State Engineering University
+Bachelor of Applied Science (B.A.Sc.), Computer science
+2010-2014
+Yerevan State Linguistic University
+Bachelor of Applied Science (B.A.Sc.), Intercultural communication
+2006-2010
+Employment history;
+Director of Business Development | CodeRiders
+April 2016 - Present
+Serbia:
+Faculty of Organizational Sciences
+Information Systems and Technologies
+2014-2018
+Employment history;
+Full-stack software developer | Valuer.ai
+September 2019 - Present
+Developing and Maintaining - Bug fixing Valuer app.
+Writing Restful APIs in Hapi.js and Laravel.
+Writing Javascript functionalities in Vue.js.
+Developing and making front-end fixes using CSS3, HTML5, Javascript.
+Working with MongoDB and Sql servers.
+
+Web Developer | Qualitas
+February 2017 - Present
+Software Engineer | menu techologies
+January 2021 - September 2022
+Java software engineer | IT-Azbuka
+December 2018 - September 2019
+Worked as a freelancer in Java Spring framework.
+Implemented application for digital signature.
+Built web services and Restful APIs for getting and persisting document assignments.
+Helped maintaining website.
+less
+Other experiences;
+HR
+Worked as HR manager at AIESEC international organization.
+Sales manager
+Worked as a sales manager for AIESEC international Organization.
+-----------------------------------
+Ukraine:
+Education;
+National University Lviv Polytechnic
+Doctor of Philosophy (PhD), Computer science
+2015-2018
+National University Lviv Polytechnic
+Master's degree, Computer science
+2014-2015
+National University Lviv Polytechnic
+Bachelor's degree, Computer science
+2010-2014
+Employment history;
+Android software developer | Vakoms
+July 2014 - October 2021
+During my job I had develop many applications in different areas.
+Other experiences;
+IoT
+I am working on custom CNC machine and greenhouse control systems.

@@ -1,0 +1,89 @@
+PHP/ Laravel:
+hotiffin.com
+waterswisdoms.com
+goldavenue.com
+nickscali.com.au
+digitalapptech.com
+------------------
+https://www.currencyonlinegroup.com/
+------------------As an example, I will show you several projects in which I participated as a Full-Stack.
+Here is this URL.
+● forwarderone.com —The web application allows a client to estimate the cost and duration of delivery.
+Ability to use advanced delivery status features to track delivery at any stage in real time.
+
+● lashoestring.com - an online e-commerce platform revolutionizing the UK antiques market. Through AI-powered automation and efficient data management, we have helped transform the traditional offline shopping experience into a convenient, scalable, and user-friendly digital marketplace.
+
+● sartobikes.com/en — a dynamic ecommerce website for an Italian bike brand that provides custom road bikes around the world. The website has impressive animations of products that give a smashing look & feel.
+---------------------------
+Laravel-based references:
+---------------------------
+1️⃣ https://staging.coloradosportsvideo.com/
+Colorado Sports Video is a project that specializes in recording and editing youth and sports events.
+
+👉The technology stack for this project includes the following:
+Front-end: Vue.js v3, Stripe, Google Maps API, Typescript, Pug, SAASS, Pinia, V-calendar.
+Backend: PHP v8.1, MySql v8.0, Laravel v9.21.6, Stripe, SendGrid.
+
+2️⃣ https://oteo.ch/
+This web app is intended for Switzerland and its differences in costs/laws/premiums within the country. Every aspect of these costs is defined on the communal level (city), a few more on the cantonal.
+Our experience on these projects includes development from scratch and development of additional features, fixes, and API integrations.
+------------------------
+laravel and angular URL
+------------------------
+https://flightsera.com/
+https://platform.qr-fox.com/
+https://www.filetool.in/
+I have implemented using Angular at the front-end and Laravel at the back-end.
+
+-----------------
+https://activeskill.com/ (in Laravel)
+Dashboard: https://drive.google.com/drive/folders/1qortHNp_6RC9yMOfZZvOTooNcv16Cj78?usp=drive_link
+-----------------
+http://neighborhoodlender.com/
+- https://www.wowtoys.com/
+- https://www.gymsource.com/
+- https://viralstyle.com/
+----------------------------
+https://cribmed.com/
+https://adellis.com/
+https://www.househackerz.com/
+https://theapartmentally.com/
+----------------------------
+php url
+----------------------------
+Here are some links:
+https://drumncode.com/portfolio
+https://www.behance.net/drumncode
+----------------------------------
+Here you can see some of my recent projects:
+- https://wein.plus - Europe's leading wine portal + a custom ERP system for internal usage.
+- https://bloom.io - SaaS CRM and invoicing system for creative workers.
+- https://onsiter.com - Marketplace for IT contractors.
+- https://www.shred.app/ - Mobile fitness app.
+- https://alephbeis.org/ - SaaS platform for teaching children to read in Hebrew.
+----------------------------------
+Here I am providing a few links to measure my expertise.
+
+https://www.sherrihill.com
+https://brewglitter.com/
+https://www.worldofring.com/
+https://www.savidecor.com/
+https://www.xcoins.com/
+http://www.excellaglobal.com/
+https://www.arcedior.com/
+https://play.google.com/store/apps/details?id=com.arcedior.app
+https://itunes.apple.com/us/app/sherri-hill-fashion/id1067976516?mt=8
+https://play.google.com/store/apps/details?id=com.bareground.mystorm&amp;hl=en
+https://apps.apple.com/us/app/the-captains-coach/id1477192178
+https://play.google.com/store/apps/details?id=com.thecaptainscoach.app
+
+-------------------------------------------------
+
+✅ https://sveuredu.rs/ - It is a services aggregator that helps customers and performers find each other (posting/searching for ads for various services). (React.js, Next.js + Node.js)
+✅ https://compao.com/ - price compare platform, aggregator of prices on mobile devices from the biggest trade platforms of both Americas. We worked on frontend tasks, authentication system, notifications, filters. Used tech stack - Next.js + React.js + Strapi as CMS
+✅ https://revalcoin.com/ - Large financial platform with the ability to manage digital assets, buy crypto and more. (React.js, Typescript, Node.js)
+✅ https://blox.so/ - SaaS platform for business clients, startups. Financial forecasting management, financial data analytics. (React.js + Charts.js, Chakra UI, Material UI)
+✅ https://tirnu.com/ - fintech project related to fintech/investments, interaction with bank API for receiving data about bank card (credit/debit) transactions. React.js + Material UI
+
+----------------------------------------------------------
+
